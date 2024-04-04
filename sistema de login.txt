@@ -1,3 +1,4 @@
 digite email
 digite senha
 digite idade
+digite sexo
