@@ -1,2 +1,6 @@
 socorro
+<<<<<<< HEAD
 meu nome é Ana
+=======
+Socorro, Deeeeus
+>>>>>>> 7d8cce5b9535d7cae066450c293c31c35d30cc94
